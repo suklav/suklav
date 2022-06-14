@@ -13,6 +13,10 @@ Homepage: https://suklav.github.io/
 - ⚡ Fun fact: [Click here](https://github.com/suklav/Small-projects)
 
 
+<br>
+
+![](https://komarev.com/ghpvc/?username=suklav) 
+<br>[Statistics: since June 2022]
 
 <!--
 **suklav/suklav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
