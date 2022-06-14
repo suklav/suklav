@@ -4,7 +4,9 @@ I am an Integrated MS-PhD student in the <b> School of Mathematical & Computatio
 I finished one summer internship at IIT Kanpur when I was in the first year of my B.Sc. studies and one winter internship at IIT Kharagpur (Through NPTEL ) when I was in the second year. 
 <br>
 Linkedin: https://www.linkedin.com/in/suklav/ <br>
-Homepage: https://suklav.github.io/
+Homepage: https://suklav.github.io/ <br>
+Google Bug hunter Profile: https://bughunters.google.com/profile/4b1a3ee5-9bc2-40a6-8b4f-fd190039f45a/awards 
+[3 valid bugs. as on June 2022 (since,June 2021)]
 
 
 - 🔭 I’m currently working on [Artificial Intelligence(AI) Algorithms](https://github.com/suklav/AI)
