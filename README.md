@@ -1,7 +1,7 @@
 ### Hola! 👋
 
 A PhD Scholar at IIT Guwahati. <br>
-Research Interest: Multimodal Deep Learning
+Research Interest: Computer Vision
 
 
 <br>
