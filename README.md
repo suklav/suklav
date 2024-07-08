@@ -6,7 +6,7 @@ Research Interest: Computer Vision
 
 <br>
 Linkedin: https://www.linkedin.com/in/suklav/ <br>
-Homepage: https://suklav.github.io/ <br>
+Homepage: https://www.iitg.ac.in/stud/suklav/ <br>
 
 <br>
 
