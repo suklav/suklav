@@ -1,7 +1,17 @@
 ### Hola! 👋
 
 A PhD Scholar at IIT Guwahati. <br>
-Research Interest: Computer Vision
+Research Interest: Computer Vision.
+
+MS in Mathematics and Computing from the Indian Association for the Cultivation of Science, Kolkata. (I was an Integrated MS-PhD student and a DST fellow).<br>
+B.Sc. in Computer Science from the Ramakrishna Mission Vidyamandira, Belur Math, affiliated with the University of Calcutta.<br>
+HS from the Krishnagar Collegiate School (Govt.).<br>
+
+
+
+
+I previously worked (as an intern/project fellow/research assistant) and was associated with IIT Kharagpur, IIT Kanpur, ISI Kolkata, NIT Durgapur, TCS Mumbai, and Amazon India. <br>
+
 
 
 <br>
